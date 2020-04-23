@@ -2,7 +2,7 @@
 该程序由YeEeck制作
 程序开源，免费。
 
-下载：https://github.com/YeEeck/Idiom_Solitaire/blob/master/%E6%88%90%E8%AF%AD%E6%8E%A5%E9%BE%99%E8%BE%85%E5%8A%A9%20By%20YeEeck.7z
+下载：https://github.com/YeEeck/Idiom_Solitaire/blob/master/成语接龙辅助 By YeEeck.7z
 
 使用说明：
 请完整解压后打开程序！不要在压缩包里打开！
