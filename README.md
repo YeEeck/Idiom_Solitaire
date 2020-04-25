@@ -3,7 +3,7 @@
 
 程序开源，免费。
 
-[点此下载](/成语接龙辅助_By_YeEeck.7z)
+[点此下载](/成语接龙辅助_By_YeEeck.7z)【打不开用蓝奏盘】
 
 蓝奏云：[下载地址](https://yeck.lanzous.com/ibxonzg)
 
